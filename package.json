@@ -1,0 +1,17 @@
+{
+  "name": "@wcd/salemwebmatron.svelte-rss-display",
+  "version": "0.0.3",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve nAsykre2qxsULOVy4ct5 --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  },
+  "devDependencies": {
+    "svelte": "^3.55.0"
+  }
+}
