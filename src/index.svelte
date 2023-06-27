@@ -1,4 +1,4 @@
-<svelte:options tag="my-counter" />
+<svelte:options tag="salem-rss-display" />
 
 <script>
 	let count = 0;
