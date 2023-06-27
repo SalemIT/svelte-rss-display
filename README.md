@@ -7,7 +7,7 @@ import './src/index.svelte'
 ### Starter kit result
 
 ```html preview-story
-  <my-counter></my-counter>
+  <salem-rss-display></salem-rss-display>
 ```
 
 ### Links
