@@ -9,7 +9,7 @@
     "serve": "npx wcd-cli@latest serve nAsykre2qxsULOVy4ct5 --open"
   },
   "dependencies": {
-    "lit-html": "^1"
+    "lit-html": "^2"
   },
   "devDependencies": {
     "svelte": "^3.55.0"
